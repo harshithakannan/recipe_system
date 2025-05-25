@@ -1,7 +1,31 @@
-# recipe_system
-![image](https://github.com/user-attachments/assets/16b7fe53-094d-4352-8def-dfe5fd05f722)
-![image](https://github.com/user-attachments/assets/2cc56c37-3268-46a2-a8fa-2f90bbc7ba96)
-![image](https://github.com/user-attachments/assets/c95f7c1e-db4e-4cb4-ad57-660908e3de64)
-![image](https://github.com/user-attachments/assets/b26b6c96-f353-4e09-a6b1-22f3b4041ef6)
-![image](https://github.com/user-attachments/assets/2d5b4895-569c-47e8-863f-a2eee85a92cb)
 
+# Recipe Management System
+# recipe_system
+
+This is a full-stack web application for managing and viewing recipe data using an API. It allows users to view, search, and filter recipes using a user-friendly interface. The project includes a backend built with Node.js and Express, and a frontend built with React.
+
+---
+
+## 📁 Project Structure
+recipe-management-system/
+├── backend/ # Backend code (API)
+├── frontend/ # Frontend code (UI)
+├── data/ # Raw recipe JSON data
+
+##Technologies Used:
+ - Backend : node.js & express.js
+ - Frontend : React.js
+ - Database : PostgreSQL
+
+##Key Features:
+ - Handling NaN values in the backend and replacing them with null.
+ - Pagination - Customizing results per page (15 - 50)
+ - Searching based on various categories like, Title, Cuisine, Rating, Cook Time and Serving
+ - UI components for side window of detailed view of recipe
+ - Error Handling
+
+##Screenshots
+![image](https://github.com/user-attachments/assets/2988bb6f-b6b3-453c-b188-9b4e80588739)
+![image](https://github.com/user-attachments/assets/f3cd5e86-d152-43a4-b9d2-f841d69d7448)
+![image](https://github.com/user-attachments/assets/515de86f-887a-4a4b-8be9-c3e89644c8fb)
+![image](https://github.com/user-attachments/assets/434cc8f0-aa8b-4aa7-919e-9e2f6a7610bb)
