@@ -197,8 +197,8 @@ function App() {
               <ChefHat size={28} className="icon-white" />
             </div>
             <div className="header-text">
-              <h1 className="app-title">Recipe Finder</h1>
-              <p className="app-subtitle">Discover your next favorite meal</p>
+              <h1 className="app-title">Recipes</h1>
+              <p className="app-subtitle">Discover your favorite!! </p>
             </div>
           </div>
           <div className="recipe-counter">
